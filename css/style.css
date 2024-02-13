@@ -52,7 +52,11 @@ h2 {
 
 .authordate {
 font-size: .85rem;
-margin-bottom: 0;
+/* margin-bottom: 0; */
+}
+
+.authordate p, time {
+  margin-bottom: 0;
 }
 
 figure {
@@ -83,5 +87,8 @@ a:focus {
   text-decoration: none;
   color: #ff3530;
 }
-
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size:1.5rem;
+}
 
