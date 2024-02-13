@@ -28,19 +28,28 @@ h1 {
   line-height: 1.3;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-family:  "Vesper Libre", serif;
 }
+
 
 .news {
   display: inline-block;
   text-transform: uppercase;
   font-size: .85rem;
   border-bottom:2px solid #ff3530;
+  
 
 }
 
 .articlesection {
   font-family: "Open Sans", sans-serif;
 }
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
 .authordate {
 font-size: .85rem;
 margin-bottom: 0;
